@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #D8D8D8;
+}
+header {
+    background: #444;
+    height: 120px;
+}
+section {
+    background: #fff;
+    margin: 0 auto;
+    height: 75vh;
+    width: 45%;
+}
+footer {
+    background: #222;
+    height: 10vh;
+    margin: 0 auto;
+    width: 45%;
+}
